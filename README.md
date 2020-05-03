@@ -17,9 +17,6 @@
 * Multi page operation, status cannot be synchronized
 * Unable to listen for cookie changes
 
-### 生成版本*build version*
-    $ npm run build
-
 ### 如何安装 *How to install*
     $ npm install sync-storage-listener
     
