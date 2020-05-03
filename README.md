@@ -1,5 +1,5 @@
 # sync-storage-listener
-### 跨页存储的同步监听方案 *What can it solve？*
+### 跨页存储的同步监听方案 *Synchronization listening scheme for cross page storage*
 
 ### 它能解决什么？ *What can it solve？*
 

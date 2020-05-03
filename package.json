@@ -1,7 +1,7 @@
 {
   "name": "sync-storage-listener",
   "version": "1.0.0",
-  "description": "跨页同步存储监听解决方案/Cross page storage listening scheme",
+  "description": "跨页同步存储监听解决方案/Synchronization listening scheme for cross page storage",
   "main": "webpack.config.js",
   "directories": {
     "lib": "lib"
